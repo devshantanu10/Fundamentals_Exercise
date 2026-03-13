@@ -6,5 +6,5 @@ b = int(input("Enter b:"))
 
 
 
-print("The result is " , divisible(a , b))
+print("The divisible number is" , divisible(a,b))
         

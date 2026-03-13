@@ -1,0 +1,5 @@
+numbers =[1,3,3,2,2,3,4,4,5]
+
+unique = list(sorted(set(numbers)))
+
+print(unique)
